@@ -1,5 +1,10 @@
-### Hi there 👋
+### Oi, Seja Bem Vindo 👋
 
+## Sou a Duda, tenho 17 anos 
+🌱 Estou no Terceiro Ano Ensino Médio e também no tecnico de TI, <br>
+🤔 Estou estudando: SQL, JS, um pouco sobre redes (não é minha vibe) e já aprendi minimamente sobre VB kkk <br>
+⚡ Quero trabalhar na parte Back-end, ainda estou descobrindo :/ <br>
+💬 Eu adoro ler qualquer coisa, principamente romance e poesia, ouvir música e cozinhar sobremesas 
 <!--
 **ssntosduda/ssntosduda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
