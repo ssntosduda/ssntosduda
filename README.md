@@ -1,4 +1,5 @@
 ### Oi, Seja Bem Vindo 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello!+👋🏻+My+name+is+Eduarda.;Also+know+as+Duda+:D;Welcome+to+my+github+🙃)](https://git.io/typing-svg)
 
 ## Sou a Duda, tenho 17 anos 
 🌱 Estou no Terceiro Ano Ensino Médio e também no tecnico de TI, <br>
