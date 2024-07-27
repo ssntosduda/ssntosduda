@@ -3,7 +3,7 @@
 
 ## Sou a Duda, tenho 18 anos 
 🌱 Faço ADS na FMU,<br>
-🤔 Estou estudando: HTML, CSS, SQL, JS, um pouco sobre redes (não é minha vibe) e já aprendi minimamente sobre VB<br>
+🤔 Estou estudando: HTML, CSS, SQL, JS, C, um pouco sobre redes (não é minha vibe) e já aprendi minimamente sobre VB<br>
 ⚡ Quero trabalhar na parte do Back-end, ainda estou descobrindo onde exatamente :/ <br>
 💬 Eu adoro ler qualquer coisa, principamente romance e poesia, ouvir música e cozinhar sobremesas 
 <!--
