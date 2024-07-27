@@ -1,9 +1,9 @@
 ### Oi, Seja Bem Vindo 👋
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello!+👋🏻+My+name+is+Eduarda.;Also+know+as+Duda+:D;Welcome+to+my+github+🙃)](https://git.io/typing-svg)
 
-## Sou a Duda, tenho 17 anos 
-🌱 Faço tecnico de TI e ADS na FMU,<br>
-🤔 Estou estudando: SQL, JS, um pouco sobre redes (não é minha vibe) e já aprendi minimamente sobre VB kkk <br>
+## Sou a Duda, tenho 18 anos 
+🌱 Faço ADS na FMU,<br>
+🤔 Estou estudando: HTML, CSS, SQL, JS, um pouco sobre redes (não é minha vibe) e já aprendi minimamente sobre VB<br>
 ⚡ Quero trabalhar na parte do Back-end, ainda estou descobrindo onde exatamente :/ <br>
 💬 Eu adoro ler qualquer coisa, principamente romance e poesia, ouvir música e cozinhar sobremesas 
 <!--
