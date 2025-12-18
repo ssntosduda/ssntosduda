@@ -3,9 +3,9 @@
 
 ## Sou a Duda, tenho 19 anos 
 🌱 Faço ADS na FMU,<br>
-🤔 Estou estudando: HTML, CSS, SQL, JS, C#, Delphi6 e já aprendi minimamente sobre VB<br>
+🤔 Estou estudando: HTML, CSS, SQL, JS, C#, Delphi6, Pyhton e Dart<br>
 ⚡ Descobrindo onde exatamente eu me encaixo :/ <br>
-💬 Eu adoro ler qualquer coisa, principamente romance e poesia, ouvir música e cozinhar
+💬 Eu adoro ler, ouvir música e cozinhar
 <!--
 **ssntosduda/ssntosduda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
